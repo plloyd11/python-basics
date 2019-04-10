@@ -9,9 +9,3 @@ yell("You suck ass!")
 def display_blanks(word):
     blanks = "-" * len(word)
     print(blanks)
-
-print("Puzzle 1:")
-display_blanks("treehouse")
-
-print("Puzzle 2:")
-display_blanks( "python")
